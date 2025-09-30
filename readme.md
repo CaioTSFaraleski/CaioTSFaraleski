@@ -38,8 +38,8 @@ Tenho perfil versátil, curioso e orientado a desafios, sempre buscando unir Int
 
 ## 📈 Estatísticas do GitHub
 <p align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CaioTSFaraleski&show_icons=true&theme=radical" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTSFaraleski&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTSFaraleski&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTSFaraleski&layout=compact&theme=radical" />
 </p>
 
 ## 🌎 Onde me encontrar
