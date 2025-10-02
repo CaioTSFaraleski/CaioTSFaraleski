@@ -8,23 +8,6 @@ A partir de 2022, direcionei meu foco para as áreas de Ciência de Dados, Big D
 
 Tenho perfil versátil, curioso e orientado a desafios, sempre buscando unir Inteligência Artificial, análise de dados e inovação tecnológica para desenvolver soluções criativas e de impacto.
 
-<p align="left">
-  <a href="https://github.com/CaioTSFaraleski?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CaioTSFaraleski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/CaioTSFaraleski?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CaioTSFaraleski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Engenharia da Computação**  
 - 📊 Interesses: **arquitetura de dados, big data, machine learning, segurança da informação e eletrônica**  
