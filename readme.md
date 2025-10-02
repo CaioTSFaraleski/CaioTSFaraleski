@@ -33,7 +33,7 @@ Tenho perfil versátil, curioso e orientado a desafios, sempre buscando unir Int
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,c,php,java,html,css,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,php,java,html,css,git,github,mysql" />
 </p>
 
 ## 📈 Estatísticas do GitHub
