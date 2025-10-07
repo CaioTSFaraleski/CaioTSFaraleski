@@ -2,11 +2,13 @@
 
 **`Desenvolvimento | Programação | Engenharia | Eletrônica`**
 
-Sou estudante de Engenharia da Computação na FIAP, com formação técnica em Informática pela ETEC. Iniciei minha trajetória com experiências em desenvolvimento web, atuando em freelances e em projetos voluntários, como a recriação do site da ONG JP. Meu primeiro trabalho registrado foi como Jovem Aprendiz na QG Indústria, experiência que fortaleceu minha visão profissional e disciplina de trabalho.
+Estudante de Engenharia da Computação na FIAP, com formação técnica em Informática pela ETEC. Tenho grande interesse em Pesquisa e Desenvolvimento, inovação tecnológica e integração entre hardware e software.
 
-A partir de 2022, direcionei meu foco para as áreas de Ciência de Dados, Big Data e Eletrônica, aprofundando meus conhecimentos em Python, Pandas, SQL, C, Java e Processamento de Sinais. Atualmente, desenvolvo uma Iniciação Científica voltada para interfaces cérebro-computador (BCI), criando um autorama controlado pela mente que utiliza sinais de concentração.
+Comecei na área com freelas e projetos voluntários, como a recriação do site da ONG JP. Meu primeiro emprego formal foi como Jovem Aprendiz na QG Indústria, onde aprendi sobre rotina de trabalho, comprometimento e disciplina.
 
-Tenho perfil versátil, curioso e orientado a desafios, sempre buscando unir Inteligência Artificial, análise de dados e inovação tecnológica para desenvolver soluções criativas e de impacto.
+A partir de 2022, passei a direcionar meus estudos para Ciência de Dados, Big Data e Eletrônica, aprofundando-me em Python, Pandas, SQL, C, Java e processamento de sinais. Atualmente, desenvolvo uma Iniciação Científica em Interfaces Cérebro-Computador (BCI), criando um autorama que responde a sinais de concentração.
+
+Sou uma pessoa curiosa e movida a desafios, com vontade de criar, experimentar e construir soluções que unam criatividade e engenharia. Acredito que a tecnologia é uma forma de transformar ideias em impacto real, e é isso que me motiva a seguir na área.
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Engenharia da Computação**  
