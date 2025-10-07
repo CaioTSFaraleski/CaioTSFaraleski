@@ -29,6 +29,6 @@ Sou uma pessoa curiosa e movida a desafios, com vontade de criar, experimentar e
 
 ## 🌎 Onde me encontrar
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:seu-email@gmail.com"><img height="40em" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/caio-faraleski"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:faraleskicaio@gmail.com"><img height="40em" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
