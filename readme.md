@@ -1,33 +1,31 @@
 <h1 align="left">🌌 Caio Faraleski!</h1>
 
-**`Desenvolvimento | Programação | Engenharia | Eletrônica`**
+**`Backend Developer | Node.js & TypeScript | Automation & Systems Engineering`**
 
-Estudante de Engenharia da Computação na FIAP, com formação técnica em Informática pela ETEC. Tenho grande interesse em Pesquisa e Desenvolvimento, inovação tecnológica e integração entre hardware e software.
+Computer Engineering student at FIAP with a solid technical background in IT. My career is focused on building robust systems and intelligent solutions through Backend Development (Node.js & TypeScript) and Process Automation.
 
-Comecei na área com freelas e projetos voluntários, como a recriação do site da ONG JP. Meu primeiro emprego formal foi como Jovem Aprendiz na QG Indústria, onde aprendi sobre rotina de trabalho, comprometimento e disciplina.
+With a strong foundation in logic and engineering, I leverage my experience in Python and C++ to bridge the gap between complex data and functional software. My journey includes developing freelance projects, scientific research in Brain-Computer Interfaces (BCI), and a deep interest in how hardware and software integration can solve real-world problems.
 
-A partir de 2022, passei a direcionar meus estudos para Ciência de Dados, Big Data e Eletrônica, aprofundando-me em Python, Pandas, SQL, C, Java e processamento de sinais. Atualmente, desenvolvo uma Iniciação Científica em Interfaces Cérebro-Computador (BCI), criando um autorama que responde a sinais de concentração.
+Currently, I am specializing in the Node.js ecosystem, creating scalable APIs, and developing automation scripts to optimize workflows. I rely on SQL for efficient data management and am always looking for ways to turn creative ideas into high-impact engineering.
 
-Sou uma pessoa curiosa e movida a desafios, com vontade de criar, experimentar e construir soluções que unam criatividade e engenharia. Acredito que a tecnologia é uma forma de transformar ideias em impacto real, e é isso que me motiva a seguir na área.
+## 🚀 Quick Glance
+- 🎓 Studying **Computer Engineering** at FIAP.
+- ⚙️ **Focused on** Backend Architecture, SQL, and RESTful APIs.
+- 🤖 **Practitioner in** Process Automation and Efficiency.
+- 🔌 **Maker Side:** Electronics and hardware-software integration.
 
-## 🚀 Sobre mim
-- 🎓 Estudante de **Engenharia da Computação**  
-- 📊 Interesses: **arquitetura de dados, big data, machine learning, segurança da informação e eletrônica**  
-- 💡 Gosto de aprender tecnologias que unem **teoria e prática**  
-- 🔍 Sempre busco desenvolver minha capacidade de **resolver problemas de forma criativa e eficiente**
-
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,php,java,html,css,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,js,python,cpp,mysql,arduino,git,github,html,css" />
 </p>
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTSFaraleski&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTSFaraleski&layout=compact&theme=radical" />
 </p>
 
-## 🌎 Onde me encontrar
+## 🌎 Where to find me
 <p align="left">
   <a href="https://www.linkedin.com/in/caio-faraleski"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:faraleskicaio@gmail.com"><img height="40em" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
