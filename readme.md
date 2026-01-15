@@ -21,9 +21,9 @@ Currently, I am specializing in the Node.js ecosystem, creating scalable APIs, a
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTSFaraleski&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTSFaraleski&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioTSFaraleski&layout=compact&theme=radical&langs_count=10&hide_langs=html,css,makefile" />
 </p>
+
 
 ## 🌎 Where to find me
 <p align="left">
